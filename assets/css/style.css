@@ -2,7 +2,7 @@
     font-family: "Zen Kaku Gothic New";
     src: url("../fonts/zenkaku-gothic-new-medium-jp.woff2") format("woff2");
     font-weight: 500;
-    font-style: medium;
+    font-style: normal;
     font-display: swap;
 }
 
@@ -10,7 +10,7 @@
     font-family: "Zen Kaku Gothic New";
     src: url("../fonts/zenkaku-gothic-new-bold-jp.woff2") format("woff2");
     font-weight: 700;
-    font-style: bold;
+    font-style: normal;
     font-display: swap;
 }
 
@@ -160,7 +160,7 @@ body {
     }
 
     .qualification__inner {
-        padding: 42px 140px 45px;
+        padding: 42px 8% 45px;
         width: 100%;
         max-width: 1230px;
         box-shadow: 0 0 0 40px #fff;
